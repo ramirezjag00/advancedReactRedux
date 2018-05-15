@@ -1,6 +1,6 @@
 # advancedReactRedux
 
-- Incomplete compilation of execise applications FROM ['Advanced React and Redux' by Stephen Grider](https://www.udemy.com/full-stack-universal-react-with-redux-express-and-mongodb/)
+- Incomplete compilation of execise applications FROM ['Advanced React and Redux' by Stephen Grider](https://www.udemy.com/react-redux-tutorial/)
 
 - Used 'create-react-app'
 
